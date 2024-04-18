@@ -1,0 +1,41 @@
+The Very Restrictive License
+
+
+0. Preface
+- The Content provided has been aggregated by The Owner through third-party utilities under unrestricted open access. The Content may include various documents and code, with ownership and licensing conditions differing across items. While The Content might not be uniformly licensed under this License, and other rules and terms may apply, the non-liability and non-warranty clauses stipulated herein still apply.
+
+1. Definitions
+- "The Content" refers to the collection of documents and code supplied under this License, except as specifically noted otherwise.
+- "The Owner" refers to <INSERT NAME>, who has either gathered and/or created The Content.
+- "Modification" means any alteration, adaptation, or enhancement made to any part of The Content.
+- "Private Use" means use of The Content in a manner that does not involve any form of distribution to the public.
+
+2. Grant of License
+- This License permits you, the licensee, to use The Content for Private Use and to engage in Modification of The Content.
+- This License does not permit you to :
+  - Use The Content for any Commercial Use.
+  - Use any Patent Rights to The Content.
+  - Distribute The Content in any form.
+
+3. Conditions
+- You must ensure that any Modifications made to The Content remain under this License :
+  - Any Modifications made by you will automatically be covered by this License without any additional terms or conditions.
+- Notification of Modifications and Use :
+  - You must promptly inform The Owner in writing about any Modifications you make to The Content. This notification should describe the nature of the Modification and the manner in which The Content is being used or is intended to be used.
+  - If you intend to use The Content in any way not originally permitted under this License, prior written consent from The Owner is required.
+- You must include a copy of this License with any Modifications, along with a prominent notice stating that you modified The Content.
+- You must provide any recipient of the Modifications with access to the source code of the Modifications.
+- You must maintain all copyright and license notices as provided in The Content and must not alter them in any way unless required to document Modifications.
+
+4. Limitations
+- The Content is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+- In no event shall The Owner or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with The Content or the use or other dealings in The Content.
+
+5. Termination
+- This License and the rights granted hereunder will terminate automatically upon any breach by you of the terms of this License.
+- Continuation of Terms :
+  - The Content was created in <INSERT YEAR>, and these terms are intended to continue to apply thereafter.
+  - The terms of this license shall remain in effect until the last to occur of the following events :
+    - Ten (10) years after the death of The Owner, or
+    - Twenty-five (25) years after the last modification made by The Owner to The Content.
+    These conditions ensure that the terms continue to protect and govern the use of The Content beyond the lifespan of The Owner and are based on the active engagement of The Owner with The Content.
